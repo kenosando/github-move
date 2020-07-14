@@ -1,0 +1,6 @@
+.vscode/
+logs/
+myvirtualenv/
+*.pyc
+*.db
+config.json
